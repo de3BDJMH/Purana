@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "vuepress": "^1.9.10"
+  },
+  "dependencies": {
+    "punycode": "^2.3.1"
   }
 }
